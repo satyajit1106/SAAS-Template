@@ -11,7 +11,7 @@ int main(){
             cin >> v[i];
         }
         
-        // if k is greater then 2 the there are ways availabe to rearrange the array so we can reverse the array 
+        // if k is greater then 2 the there are ways availabe to rearrange the array so we can reverse array 
         if(k >= 2){
             vector<int> sorted_v = v;
             sort(sorted_v.begin(), sorted_v.end());
