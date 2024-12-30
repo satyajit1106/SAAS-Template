@@ -70,10 +70,6 @@ Clone this project and use it to create your own SaaS. You can check the live de
   </tr>
 </table>
 
-### Demo
-
-**Live demo: [SaaS Boilerplate](https://react-saas.com)**
-
 | Landing Page | User Dashboard |
 | --- | --- |
 | [![Next.js Boilerplate SaaS Landing Page](public/assets/images/nextjs-boilerplate-saas-landing-page.png)](https://react-saas.com) | [![Next.js Boilerplate SaaS User Dashboard](public/assets/images/nextjs-boilerplate-saas-user-dashboard.png)](https://react-saas.com/dashboard) |
