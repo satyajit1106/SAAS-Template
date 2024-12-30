@@ -59,11 +59,7 @@ Clone this project and use it to create your own SaaS. You can check the live de
         </picture>
       </a>
     </td>
-    <td align="center" style=width="33%">
-      <a href="https://nextjs-boilerplate.com/pro-saas-starter-kit">
-        <img src="public/assets/images/nextjs-boilerplate-saas.png?raw=true" alt="Next.js SaaS Boilerplate with React" />
-      </a>
-    </td>
+    
   </tr>
   <tr height="187px">
     <td align="center" width="33%">
