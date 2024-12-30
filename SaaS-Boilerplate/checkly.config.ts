@@ -20,7 +20,7 @@ export const config = defineConfig({
   // FIXME: Add your own project name, logical ID, and repository URL
   projectName: 'SaaS Boilerplate',
   logicalId: 'saas-boilerplate',
-  repoUrl: 'https://github.com/ixartz/Next-js-Boilerplate',
+  repoUrl: 'https://github.com/satyajit1106/SAAS-Template',
   checks: {
     locations: ['us-east-1', 'eu-west-1'],
     tags: ['website'],
