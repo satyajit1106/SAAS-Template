@@ -8,7 +8,7 @@ Designed with developers in mind, this **Next.js Starter Kit** uses TypeScript f
 
 Whether you're building a new SaaS app or looking for a flexible, **production-ready SaaS template**, this boilerplate has you covered. This free, open-source starter kit has everything you need to accelerate your development and scale your product with ease.
 
-Clone this project and use it to create your own SaaS. You can check the live demo at [SaaS Boilerplate](https://react-saas.com), which is a demo with a working authentication and multi-tenancy system.
+Clone this project and use it to create your own SaaS.
 
 
 ### Features
